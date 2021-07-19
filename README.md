@@ -16,5 +16,5 @@ Found my new bias for Rust recently.
 
 ### Find me elsewhere 🌎
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arthurdav3)](https://twitter.com/arthurdav3)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arthurlch)](https://twitter.com/arthurlch)
 
