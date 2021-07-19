@@ -6,9 +6,8 @@ I started coding throught C++ and a old Dell desktop when I was 14 years old. Si
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my skills: NextJS, NestJS and RUST, C.<br /> 
-
-My Job would web developer but my passion is for lower language like C++ or recently Rust. Another hobby of mine is to make simple video games for fun. 
+Currently improving my skills: Vue, Typescript, Rust<br /> 
+Found my new bias for Rust recently. 
 
 ### My most recent posts on [hashnode.com](https://dev.to/diogorodrigues) 😃🧾
 <!-- BLOG-POST-LIST:START -->
@@ -18,4 +17,4 @@ My Job would web developer but my passion is for lower language like C++ or rece
 ### Find me elsewhere 🌎
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/arthurdav3)](https://twitter.com/arthurdav3)
--->
+
