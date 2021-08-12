@@ -9,7 +9,7 @@ I started coding throught C++ and a old Dell desktop when I was 14 years old. Si
 Currently improving my skills: Vue, Typescript, Rust<br /> 
 Found my new bias for Rust recently. 
 
-### My most recent posts on [hashnode.com](https://dev.to/diogorodrigues) 😃🧾
+### My most recent posts on [hashnode.com](https://hashnode.com/@ArthurDav) 😃🧾
 <!-- BLOG-POST-LIST:START -->
 - [MySQL starter course](https://arthurdav.hashnode.dev/get-started-with-mysql)
 <!-- BLOG-POST-LIST:END -->
