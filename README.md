@@ -6,13 +6,9 @@ I started coding throught C++ and a old Dell desktop when I was 14 years old. Si
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my skills: Vue, Typescript, Rust<br /> 
-Found my new bias for Rust recently. 
+Currently improving my skills: Typescript,Go, NestJS <br /> 
 
-### My most recent posts on [hashnode.com](https://hashnode.com/@ArthurDav) 😃🧾
-<!-- BLOG-POST-LIST:START -->
-- [MySQL starter course](https://arthurdav.hashnode.dev/get-started-with-mysql)
-<!-- BLOG-POST-LIST:END -->
+### I'm writting stuff sometimes ..(https://dev.to/arthurdav) 😃🧾
 
 ### Find me elsewhere 🌎
 
