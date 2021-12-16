@@ -8,7 +8,7 @@ I started coding throught C++ and a old Dell desktop when I was 14 years old. Si
 
 Currently improving my skills: Typescript,Go, NestJS <br /> 
 
-### I'm writting stuff sometimes ..(https://dev.to/arthurdav) 😃🧾
+### I'm writting stuff sometimes ..(https://dev.to/arthurlch) 😃🧾
 
 ### Find me elsewhere 🌎
 
