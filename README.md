@@ -1,2 +1,4 @@
-https://arthurlch.com
+My personal website: https://arthurlch.com
+Twitter: @arthurlch
 
+I'm into food and code.
