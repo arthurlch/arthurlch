@@ -1,4 +1,4 @@
-###I'm mostly using Gitlab. 
+### I'm mostly using Gitlab. 
 
 Personal website: https://arthurlch.com
 
