@@ -13,7 +13,7 @@ Interests:
 - Machine Learning
 - Finance
 
-Stack: Python, Typescript, Go, Ruby, Some C/C++.
+Stack: Python, Rust, Go, Typescript, Ruby, Some C/C++
 Frameworks: React, Express, Rails, Svelte, AntDesign.
 DevOps: Google Cloud, Gitlab, Terraform. 
 
