@@ -1,21 +1,22 @@
-### I'm mostly using Gitlab. 
 
-Personal website: https://arthurlch.com
+## Hi there, my name is Arthur and I'm a Software Engineer.
 
-Twitter: @arthurlch
+## Personal website: https://arthurlch.com
 
-Gitlab: https://gitlab.com/arthurlch
+## Twitter: @arthurlch
 
-Interests: 
+## Gitlab: https://gitlab.com/arthurlch ( for work)
+
+### Interests: 
 - Ethical Hacking 
 - High Performance Computing
 - Data Analaysis
 - Machine Learning
 - Finance
 
-Stack: Go, Python, Typescript, Ruby, C/C++
-Frameworks: React, Express, Rails, Svelte, AntDesign.
-DevOps: Google Cloud, Gitlab, Terraform. 
+### Stack: Go, Python, Typescript, Ruby, C/C++
+### Frameworks: React, Express, Rails, Svelte, AntDesign.
+### DevOps: Google Cloud, Gitlab, Terraform. 
 
-Contact: purpltie@protonmail.com
+### Contact: purpltie@protonmail.com
 
