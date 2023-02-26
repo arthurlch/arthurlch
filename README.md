@@ -1,22 +1,32 @@
 
-## Hi there, my name is Arthur and I'm a Software Engineer.
+## About Me
 
-## Personal website: https://arthurlch.com
+I like Soba.
 
-## Twitter: @arthurlch
+##  Website
 
-## Gitlab: https://gitlab.com/arthurlch ( for work)
+https://arthurlch.com
 
-### Interests: 
+## SNS 
+
+- Twitter: @arthurlch
+
+- Gitlab: https://gitlab.com/arthurlch ( for work )
+
+##  Interests: 
 - Ethical Hacking 
 - High Performance Computing
 - Data Analaysis
 - Machine Learning
 - Finance
 
-### Stack: Go, Python, Typescript, Ruby, C/C++
-### Frameworks: React, Express, Rails, Svelte, AntDesign.
-### DevOps: Google Cloud, Gitlab, Terraform. 
+## Stack
+ Go, Python, Typescript, Ruby, C/C++
 
-### Contact: purpltie@protonmail.com
+Frameworks: React, Express, Rails, Svelte, AntDesign.
+
+DevOps: Google Cloud, Gitlab, Terraform. 
+
+### Contact
+purpltie@protonmail.com (I never check this email :D)
 
