@@ -1,7 +1,7 @@
 
 ## About Me
 
-I like Soba.
+I like sushi.
 
 ##  Website
 
@@ -11,22 +11,18 @@ https://arthurlch.com
 
 - Twitter: @arthurlch
 
-- Gitlab: https://gitlab.com/arthurlch ( for work )
+- Gitlab: https://gitlab.com/arthurlch ( sadly not used anymore )
 
 ##  Interests: 
-- Ethical Hacking 
-- High Performance Computing
-- Data Analaysis
-- Machine Learning
-- Finance
+- sushi, kani miso ramen
+- Sports: Boxing, Kendo, fencing.
+- cooking, healthy food nerd
+- anime 
+- beer
 
 ## Stack
- Go, Python, Typescript, Ruby, C/C++
+ Golang, Python, Typescript, Ruby, C/C++
 
-Frameworks: React, Express, Rails, Svelte, AntDesign.
+Frameworks: Anything that is not JS
 
 DevOps: Google Cloud, Gitlab, Terraform. 
-
-### Contact
-purpltie@protonmail.com (I never check this email :D)
-
